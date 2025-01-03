@@ -1,4 +1,16 @@
 # BIG-DATA-ANALYSIS
+Name: AMAL K B
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT0806FQ
+
+Domain: Data Analysis
+
+Mentor: Sravani
+
+Duration: December to January 2024
+
 Big Data Analysis on Cars Dataset 🚗📊
 This repository contains a detailed analysis of a cars dataset, showcasing various data preprocessing, visualization, and analysis techniques. The project demonstrates how to handle real-world datasets, extract insights, and apply statistical methods to uncover patterns.
 
