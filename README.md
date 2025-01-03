@@ -39,19 +39,5 @@ Weight vs. Horsepower:
 Correlation between car weight and horsepower.
 Price Distribution:
 MSRP trends across origins.
-🚀 How to Run
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/cars-bigdata-analysis.git
-Install required libraries:
-bash
-Copy code
-pip install pandas matplotlib seaborn
-Open the Jupyter Notebook or Google Colab and run bigdata_analysis.ipynb.
-🌟 Future Work
-Add more advanced machine learning models for price prediction.
-Explore time-series data (if available).
-Enhance interactivity with Dash or Streamlit.
 📝 Contributors
 Amal K B - Data Analysis and Visualization.
